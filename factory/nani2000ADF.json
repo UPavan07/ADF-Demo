@@ -1,0 +1,9 @@
+{
+	"name": "nani2000ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22b6c4d9-7a1e-4537-af5e-26b1881f3502",
+		"tenantId": "01ef0736-7913-4a08-b088-183d23103a58"
+	}
+}
